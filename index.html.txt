@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Suman Mistry | Cyber Security Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+
+<div class="container">
+
+    <!-- PROFILE SECTION -->
+    <section class="profile">
+        <img src="images/profile.jpg" alt="Suman Mistry">
+        <h1>Suman Mistry</h1>
+        <h2>B.Sc (Hons) Advanced Networking & Cyber Security</h2>
+        <p class="tagline">
+            Aspiring IT & Cyber Security professional passionate about securing digital infrastructure and building robust networks.
+        </p>
+    </section>
+
+    <!-- SOCIAL ICONS -->
+    <section class="socials">
+        <a href="tel:8100493733" title="Call Me">
+            <i class="fa-solid fa-paper-plane"></i>
+        </a>
+        <a href="https://www.instagram.com/suman_mistry777?igsh=YmgwaTIxYjJmOWFl" target="_blank">
+            <i class="fa-brands fa-facebook"></i>
+        </a>
+        <a href="https://www.instagram.com/suman_mistry777?igsh=YmgwaTIxYjJmOWFl" target="_blank">
+            <i class="fa-brands fa-instagram"></i>
+        </a>
+        <a href="https://www.linkedin.com/in/suman-mistry-a1368a306" target="_blank">
+            <i class="fa-brands fa-linkedin"></i>
+        </a>
+        <a href="https://wa.me/918100493733" target="_blank">
+            <i class="fa-brands fa-whatsapp"></i>
+        </a>
+    </section>
+
+    <!-- ABOUT -->
+    <section class="card">
+        <h3>About Me</h3>
+        <p>
+            I am a motivated undergraduate student pursuing a B.Sc (Hons) in Advanced Networking and Cybersecurity at Brainware University.
+            My academic journey is driven by a strong interest in IT infrastructure, network defense, and ethical hacking.
+            I am eager to apply my technical skills to solve real-world security challenges.
+        </p>
+    </section>
+
+    <!-- QUALIFICATIONS -->
+    <section class="card">
+        <h3>Qualifications</h3>
+        <ul>
+            <li>Higher Secondary – 75%</li>
+            <li>Secondary – 72%</li>
+            <li>B.Sc (Hons) – 2025–2029 (1st Year)</li>
+        </ul>
+    </section>
+
+    <!-- SKILLS -->
+    <section class="card">
+        <h3>Technical Arsenal</h3>
+
+        <div class="skill">
+            <span>Programming</span>
+            <div class="bar"><div style="width:80%"></div></div>
+        </div>
+
+        <div class="skill">
+            <span>SQL & Database</span>
+            <div class="bar"><div style="width:94%"></div></div>
+        </div>
+
+        <div class="skill">
+            <span>Networking</span>
+            <div class="bar"><div style="width:95%"></div></div>
+        </div>
+
+        <div class="skill">
+            <span>Cyber Security</span>
+            <div class="bar"><div style="width:98%"></div></div>
+        </div>
+    </section>
+
+    <!-- LANGUAGES -->
+    <section class="card">
+        <h3>Languages</h3>
+        <p>English – Professional Proficiency</p>
+        <p>Bengali – Native Proficiency</p>
+    </section>
+
+    <!-- CERTIFICATIONS -->
+    <section class="card">
+        <h3>Certificates</h3>
+        <ul>
+            <li>Diploma in Computer Application</li>
+            <li>C, C++, Java, Python</li>
+        </ul>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="card">
+        <h3>Get In Touch</h3>
+        <p>WhatsApp: 8100493733</p>
+        <p>Email: imbikrammistry@gmail.com</p>
+        <p>Location: Newtown</p>
+    </section>
+
+    <!-- FOOTER -->
+    <footer>
+        <p>Designed by Suman Mistry</p>
+    </footer>
+
+</div>
+
+</body>
+</html>
